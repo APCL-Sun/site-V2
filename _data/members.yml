@@ -7,8 +7,8 @@
 # =====================================================
 
 professor:
-  name_kr: "홍길동"
-  name_en: "Gil-dong Hong"
+  name_kr: "안규복"
+  name_en: "Kyubok Ahn"
   position: "지도교수 / Professor"
   email: "hong@chungbuk.ac.kr"
   photo: "/assets/images/members/professor.jpg"
@@ -16,17 +16,23 @@ professor:
 
 # 박사과정 (아래 형식으로 필요한 만큼 추가하세요)
 phd_students:
-  - name_kr: "김철수"
+  - name_kr: "정하동"
     name_en: "Cheolsu Kim"
-    year: "박사 3차"
+    year: "박사과정 2년차"
     email: "kim.cs@chungbuk.ac.kr"
-    photo: "/assets/images/members/kim-cs.jpg"
+    photo: "/assets/images/members/JHD-A.jpg"
+
+  - name_kr: "최용선"
+    name_en: "Cheolsu Kim"
+    year: "박사과정 1년차"
+    email: "kim.cs@chungbuk.ac.kr"
+    photo: "/assets/images/members/CYS-A.jpg"
 
 # 석사과정
 ms_students:
-  - name_kr: "이영희"
+  - name_kr: "정지원"
     name_en: "Younghee Lee"
-    year: "석사 1차"
+    year: "석사과정 2년차"
     email: "lee.yh@chungbuk.ac.kr"
     photo: "/assets/images/members/lee-yh.jpg"
   - name_kr: "박민수"

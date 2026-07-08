@@ -17,8 +17,8 @@ gmap_query: "충북대학교 공학관"     # 구글맵 검색어 (Contact 페�
 
 # 홈 화면 상단 배경 영상. 아래 둘 중 하나만 채우세요.
 home_gif_file: "/assets/videos/home.gif"            # 예: "/assets/videos/hero.gif" (GIF를 첫 화면에 크게 표시)
-home_video_file: ""          # 예: "/assets/videos/thruster.mp4" (직접 업로드한 영상 사용 시)
-home_video_youtube_id: ""     # 예: "dQw4w9WgXcQ" (유튜브 영상 사용 시, 위 항목 대신 사용)
+# home_video_file: ""          # 예: "/assets/videos/thruster.mp4" (직접 업로드한 영상 사용 시)
+# home_video_youtube_id: ""     # 예: "dQw4w9WgXcQ" (유튜브 영상 사용 시, 위 항목 대신 사용)
 
 recruiting: true              # 모집 배너 표시 여부 (true/false)
 recruiting_text: "2027년 전기 석사/박사과정 대학원생을 상시 모집합니다. 관심 있는 분은 Contact 페이지를 확인해주세요."
